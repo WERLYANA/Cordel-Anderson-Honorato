@@ -97,18 +97,18 @@ section#img01 {
 
 section#img02 {
     background-image: url('../imagens/aguas.jpeg');
-    background-position: right center;
+    background-position: center;
       
 }
 
 section#img03 {
     background-image: url('../imagens/junino.jpg');
-    background-position: right center;
+    background-position: center;
 }
 
 section#img04{
     background-image: url('../imagens/igreja.jpg');
-    background-position: right center;
+    background-position: center;
 }
 
 section#img05{
