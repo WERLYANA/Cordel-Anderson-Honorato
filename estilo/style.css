@@ -96,35 +96,26 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url('../imagens/background002.jpg');
+    background-image: url('../imagens/Serra_de_Itaitinga_-_CE.jpg');
     background-position: right center;
       
 }
 
 section#img03 {
-    background-image: url('../imagens/background003.jpg');
+    background-image: url('../imagens/junino.jpg');
     background-position: right center;
 }
 
 section#img04{
-    background-image: url('../imagens/backgraound004.jpg');
-    background-position: right center;
+    background-image: url('../imagens/festa\ junina.jpg');
+    background-position: reft center;
 }
 
 section#img05{
-    background-image: url('../imagens/bacground005.jpg');
+    background-image: url('../');
     background-position: left center;
 }
 
-section#img06{
-    background-image: url('../imagens/bacground005.jpg');
-    background-position: left center;
-}
-
-section#img07{
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;
-}
 
 footer {
     background-color: rgb(19, 18, 18);;
