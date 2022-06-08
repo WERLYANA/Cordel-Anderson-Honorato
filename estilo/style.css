@@ -96,7 +96,7 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url('../imagens/Joaninha.jpg');
+    background-image: url('../imagens/aguas.jpeg');
     background-position: right center;
       
 }
@@ -107,13 +107,13 @@ section#img03 {
 }
 
 section#img04{
-    background-image: url('../imagens/festa\ junina.jpg');
-    background-position: reft center;
+    background-image: url('../imagens/igreja.jpg');
+    background-position: right center;
 }
 
 section#img05{
-    background-image: url('../');
-    background-position: left center;
+    background-image: url('../imagens/entrada.jpeg');
+    background-position:  center;
 }
 
 
