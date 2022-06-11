@@ -56,7 +56,7 @@ section {
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 3.5vw;
+    font-size: 4.5vw;
 }
 
 section > p {
@@ -96,23 +96,23 @@ section#img01 {
 }
 
 section#img02 {
-    background-image: url('../imagens/aguas.jpeg');
+    background-image: url('../imagens/background001.jpg');
     background-position: center;
       
 }
 
 section#img03 {
-    background-image: url('../imagens/junino.jpg');
+    background-image: url('../imagens/letra.jpg');
     background-position: center;
 }
 
 section#img04{
-    background-image: url('../imagens/WhatsApp\ Image\ 2022-06-08\ at\ 12.48.48.jpeg');
+    background-image: url('../imagens/background001.jpg');
     background-position: left center;
 }
 
 section#img05{
-    background-image: url('../imagens/entrada.jpeg');
+    background-image: url('../imagens/letra.jpg');
     background-position:  center;
 }
 
